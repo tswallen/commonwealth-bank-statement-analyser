@@ -1,2 +1,3 @@
-# commonwealth-bank-statement-analyser
+# Commonwealth Bank Statement Analyser
+
 An easier way to read Commonwealth Bank Statements
